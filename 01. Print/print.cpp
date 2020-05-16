@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+
     cout << "Hello My Master :D" << endl;
     // cout : memperlihatkan apapun yang ada diantara '<<' dan '"'.
     // endl : untuk memberikan spasi 1 line pada program.

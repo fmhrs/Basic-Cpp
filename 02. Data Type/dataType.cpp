@@ -4,10 +4,12 @@
 #include <iostream>
 #include <string>
 #include <stdio.h>
+
 using namespace std;
 
 int main()
 {
+
     // data type.
     // integer (int)    : angka.
     // float   (float)  : bilangan desimal.
