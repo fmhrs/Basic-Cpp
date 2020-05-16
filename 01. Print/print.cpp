@@ -24,4 +24,6 @@ int main()
     // garis miring dua adalah comment, program tidak akan mengeksekusi kata-kata apapun seletah garis miring 2.
     // garis miring 2 juga biasa disebut dengan single comment karena hanya 1 baris setelah // nya lah yang tidak di eksekusi.
     // berbeda dengan singgle comment, Multiple comment tidak akan mengeksekusi apapun yang ada di antara /* an */ tak akan di eksekusi oleh program.
+
+    return 0; // mengakhiri program.
 }
