@@ -49,5 +49,6 @@ int main()
     stringstream(mystr) >> gaji; // mengubah angka terdepan string ke int
     cout << "\n---------Hitung Kenaikan Gaji------------" << endl;
     cout << "Gaji yang anda peroleh bulan depan : " << gaji + (gaji * 0.3) << endl;
+
     return 0;
 }
